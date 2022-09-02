@@ -12,7 +12,7 @@
         "url": "https://github.com/aljames-arctic/My-Shared-Compendia"
     }
   ],
-  "version": "1.1.1",
+  "version": "1.1.2",
   "compatibility": {
         "minimum": "0.5.0",
         "verified": "10.284"
@@ -23,7 +23,7 @@
         "label": "My actors",
         "path": "packs/actors.db",
       	"module": "My-Shared-Compendia",
-        "entity": "Actor",
+        "type": "Actor",
         "system": "dnd5e"
       },
       {
@@ -31,7 +31,7 @@
         "label": "My Monsters",
         "path": "packs/monsters.db",
       	"module": "My-Shared-Compendia",
-        "entity": "Actor",
+        "type": "Actor",
         "system": "dnd5e"
       },
       {
@@ -39,7 +39,7 @@
         "label": "My Items",
         "path": "packs/items.db",
       	"module": "My-Shared-Compendia",
-        "entity": "Item",
+        "type": "Item",
         "system": "dnd5e"
       },
       {
@@ -47,7 +47,7 @@
         "label": "My Scenes",
         "path": "packs/scenes.db",
       	"module": "My-Shared-Compendia",
-        "entity": "Scene",
+        "type": "Scene",
         "system": "dnd5e"
       },
       {
@@ -55,7 +55,7 @@
         "label": "My Journal Entrys",
         "path": "packs/journalentry.db",
       	"module": "My-Shared-Compendia",
-        "entity": "JournalEntry",
+        "type": "JournalEntry",
         "system": "dnd5e"
       },
       {
@@ -63,7 +63,7 @@
         "label": "My Macros",
         "path": "packs/macro.db",
       	"module": "My-Shared-Compendia",
-        "entity": "Macro",
+        "type": "Macro",
         "system": "dnd5e"
       },
       {
@@ -71,7 +71,7 @@
         "label": "My Roll Tables",
         "path": "packs/rolltable.db",
       	"module": "My-Shared-Compendia",
-        "entity": "RollTable",
+        "type": "RollTable",
         "system": "dnd5e"
       },
       {
@@ -79,7 +79,7 @@
         "label": "My Playlist",
         "path": "packs/playlist.db",
       	"module": "My-Shared-Compendia",
-        "entity": "Playlist",
+        "type": "Playlist",
         "system": "dnd5e"
       }
     ],
