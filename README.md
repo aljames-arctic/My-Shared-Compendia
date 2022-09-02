@@ -73,6 +73,6 @@ But, [Compendium Folders](https://github.com/earlSt1/vtt-compendium-folders "Com
 ❤
 
 Manifest link
-https://github.com/aljames-arctic/My-Shared-Compendia/releases/download/1.0.0/module.json
+https://raw.githubusercontent.com/aljames-arctic/My-Shared-Compendia/main/module.json
 
 <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/stschoelzel/My-Shared-Compendia/total">
