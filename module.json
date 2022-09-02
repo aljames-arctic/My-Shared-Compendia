@@ -12,56 +12,64 @@
         "label": "My actors",
         "path": "packs/actors.db",
       	"module": "My-Shared-Compendia",
-        "entity": "Actor"
+        "entity": "Actor",
+        "system": "dnd5e"
       },
       {
         "name": "monsters",
         "label": "My Monsters",
         "path": "packs/monsters.db",
       	"module": "My-Shared-Compendia",
-        "entity": "Actor"
+        "entity": "Actor",
+        "system": "dnd5e"
       },
       {
         "name": "items",
         "label": "My Items",
         "path": "packs/items.db",
       	"module": "My-Shared-Compendia",
-        "entity": "Item"
+        "entity": "Item",
+        "system": "dnd5e"
       },
       {
         "name": "scenes",
         "label": "My Scenes",
         "path": "packs/scenes.db",
       	"module": "My-Shared-Compendia",
-        "entity": "Scene"
+        "entity": "Scene",
+        "system": "dnd5e"
       },
       {
         "name": "JournalEntrys",
         "label": "My Journal Entrys",
         "path": "packs/journalentry.db",
       	"module": "My-Shared-Compendia",
-        "entity": "JournalEntry"
+        "entity": "JournalEntry",
+        "system": "dnd5e"
       },
       {
         "name": "macros",
         "label": "My Macros",
         "path": "packs/macro.db",
       	"module": "My-Shared-Compendia",
-        "entity": "Macro"
+        "entity": "Macro",
+        "system": "dnd5e"
       },
       {
         "name": "rolltable",
         "label": "My Roll Tables",
         "path": "packs/rolltable.db",
       	"module": "My-Shared-Compendia",
-        "entity": "RollTable"
+        "entity": "RollTable",
+        "system": "dnd5e"
       },
       {
         "name": "playlist",
         "label": "My Playlist",
         "path": "packs/playlist.db",
       	"module": "My-Shared-Compendia",
-        "entity": "Playlist"
+        "entity": "Playlist",
+        "system": "dnd5e"
       }
     ],
     
