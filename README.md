@@ -3,21 +3,9 @@ A Foundry VTT module to share Data between worlds via compendia as explained by 
 Its not hard to do, but you can jumpstart your efforts and just use this module.
 
 ## Installation
-1.  Simply use the install module screen within the FoundryVTT setup
+1.  Simply use the install module screen within the FoundryVTT setup 
 
-The deletion of line 68/69 shouldn be unnecessary if you installed after 27.4.2021 thanks to [BadIdeasBureau](https://github.com/BadIdeasBureau "BadIdeasBureau").<br/><br/>
-But I strongly recommend you still read why the edit was necessary.
-
-### Installation pre 27.4.2021
-
-1.  Simply use the install module screen within the FoundryVTT setup
-2.  Open you local My-Shared-Compendia/module.json
-3.  Delete line 68 to 69
-
-68   "download": "https://github.com/stschoelzel/My-Shared-Compendia/releases/download/1.0.0/My-Shared-Compendia.zip",    
-69   "manifest": "https://github.com/stschoelzel/My-Shared-Compendia/releases/download/1.0.0/module.json"    
-
-
+## Notice!!
 🚨 Whenever there is an update,  👏 FoundryVTT  👏 will  👏 erase  👏 your  👏 compendia 👏.
 
 Therefore you want to prevent FoundryVTT to **ever** update this module.
@@ -84,6 +72,7 @@ But, [Compendium Folders](https://github.com/earlSt1/vtt-compendium-folders "Com
 
 ❤
 
-**I only intent to update this if it breaks. Anyway, delete line 67 to 70 in the module.json**
+Manifest link
+https://github.com/aljames-arctic/My-Shared-Compendia/releases/download/1.0.0/module.json
 
 <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/stschoelzel/My-Shared-Compendia/total">
