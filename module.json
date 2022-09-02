@@ -1,7 +1,13 @@
 {   
-  "name": "My-Shared-Compendia",   
+  "readme": "README.md",
+  "license": "UNLICENSED",
+  "download": "https://github.com/aljames-arctic/My-Shared-Compendia/zipball/master",
+  "manifest": "https://raw.githubusercontent.com/aljames-arctic/My-Shared-Compendia/main/module.json",
+  
+  "id": "My-Shared-Compendia",   
   "title": "My Shared Compendia",   
-  "description": "Sharing data across worlds via Compendia as explained by u/solfolango on r/FoundryVTT",   
+  "description": "Sharing data across worlds via Compendia as explained by u/solfolango on r/FoundryVTT",
+  "version": "1.1.0",
   "authors": [
     {
         "name": "sts",
@@ -12,15 +18,14 @@
         "url": "https://github.com/aljames-arctic"
     }
     ],
-  "version": "1.1.0",
-  "compatibility": {
-        "minimum": "0.5.0",
-        "verified": "10.284"
-  },
   "keywords": [
     "compendium",
     "shared"
   ],
+  "compatibility": {
+        "minimum": "0.5.0",
+        "verified": "10.284"
+  },
   "packs": [
       {
         "name": "actors",
@@ -87,11 +92,6 @@
         "system": "dnd5e"
       }
     ],
-    
-  "readme": "README.md",
-  "license": "UNLICENSED",
-  "download": "https://github.com/aljames-arctic/My-Shared-Compendia/zipball/master",
-  "manifest": "https://raw.githubusercontent.com/aljames-arctic/My-Shared-Compendia/main/module.json",
 
   "url": "https://github.com/aljames-arctic/My-Shared-Compendia"
 }
