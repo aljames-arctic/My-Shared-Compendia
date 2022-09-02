@@ -74,7 +74,7 @@
     ],
     
   "download": "https://github.com/aljames-arctic/My-Shared-Compendia/releases/download/1.0.0/My-Shared-Compendia.zip",
-  "manifest": "https://github.com/aljames-arctic/My-Shared-Compendia/releases/download/1.0.0/module.json",
+  "manifest": "https://raw.githubusercontent.com/aljames-arctic/My-Shared-Compendia/main/module.json",
 
-  "url": "https://github.com/stschoelzel/My-Shared-Compendia"
+  "url": "https://github.com/aljames-arctic/My-Shared-Compendia"
 }
