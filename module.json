@@ -73,7 +73,7 @@
       }
     ],
     
-  "download": "https://github.com/aljames-arctic/My-Shared-Compendia/releases/download/1.0.0/My-Shared-Compendia.zip",
+  "download": "https://github.com/aljames-arctic/My-Shared-Compendia/zipball/master",
   "manifest": "https://raw.githubusercontent.com/aljames-arctic/My-Shared-Compendia/main/module.json",
 
   "url": "https://github.com/aljames-arctic/My-Shared-Compendia"
