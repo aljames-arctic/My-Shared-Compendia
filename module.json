@@ -12,7 +12,7 @@
         "url": "https://github.com/aljames-arctic/My-Shared-Compendia"
     }
   ],
-  "version": "1.1.2",
+  "version": "1.1.3",
   "compatibility": {
         "minimum": "0.5.0",
         "verified": "10.284"
@@ -20,7 +20,7 @@
   "packs": [
       {
         "name": "actors",
-        "label": "My actors",
+        "label": "Shared Named Actors",
         "path": "packs/actors.db",
       	"module": "My-Shared-Compendia",
         "type": "Actor",
@@ -28,7 +28,7 @@
       },
       {
         "name": "monsters",
-        "label": "My Monsters",
+        "label": "Shared Monsters",
         "path": "packs/monsters.db",
       	"module": "My-Shared-Compendia",
         "type": "Actor",
@@ -36,7 +36,7 @@
       },
       {
         "name": "items",
-        "label": "My Items",
+        "label": "Shared Items",
         "path": "packs/items.db",
       	"module": "My-Shared-Compendia",
         "type": "Item",
@@ -44,7 +44,7 @@
       },
       {
         "name": "scenes",
-        "label": "My Scenes",
+        "label": "Shared Scenes",
         "path": "packs/scenes.db",
       	"module": "My-Shared-Compendia",
         "type": "Scene",
@@ -52,7 +52,7 @@
       },
       {
         "name": "JournalEntrys",
-        "label": "My Journal Entrys",
+        "label": "Shared Journal Entrys",
         "path": "packs/journalentry.db",
       	"module": "My-Shared-Compendia",
         "type": "JournalEntry",
@@ -60,7 +60,7 @@
       },
       {
         "name": "macros",
-        "label": "My Macros",
+        "label": "Shared Macros",
         "path": "packs/macro.db",
       	"module": "My-Shared-Compendia",
         "type": "Macro",
@@ -68,7 +68,7 @@
       },
       {
         "name": "rolltable",
-        "label": "My Roll Tables",
+        "label": "Shared Roll Tables",
         "path": "packs/rolltable.db",
       	"module": "My-Shared-Compendia",
         "type": "RollTable",
@@ -76,10 +76,178 @@
       },
       {
         "name": "playlist",
-        "label": "My Playlist",
+        "label": "Shared Playlist",
         "path": "packs/playlist.db",
       	"module": "My-Shared-Compendia",
         "type": "Playlist",
+        "system": "dnd5e"
+      },
+      {
+        "name": "classes",
+        "label": "Classes",
+        "path": "packs/classes.db",
+      	"module": "My-Shared-Compendia",
+        "type": "Item",
+        "system": "dnd5e"
+      },
+      {
+        "name": "feats",
+        "label": "Feats",
+        "path": "packs/feats.db",
+      	"module": "My-Shared-Compendia",
+        "type": "Item",
+        "system": "dnd5e"
+      },
+      {
+        "name": "backgrounds",
+        "label": "Backgrounds",
+        "path": "packs/backgrounds.db",
+      	"module": "My-Shared-Compendia",
+        "type": "Item",
+        "system": "dnd5e"
+      },
+      {
+        "name": "artificer",
+        "label": "Subclass Artificer",
+        "path": "packs/subclass-artificer.db",
+      	"module": "My-Shared-Compendia",
+        "type": "Item",
+        "system": "dnd5e"
+      },
+      {
+        "name": "barbarian",
+        "label": "Subclass Barbarian",
+        "path": "packs/subclass-barbarian.db",
+      	"module": "My-Shared-Compendia",
+        "type": "Item",
+        "system": "dnd5e"
+      },
+      {
+        "name": "bard",
+        "label": "Subclass Bard",
+        "path": "packs/subclass-bard.db",
+      	"module": "My-Shared-Compendia",
+        "type": "Item",
+        "system": "dnd5e"
+      },
+      {
+        "name": "cleric",
+        "label": "Subclass Cleric",
+        "path": "packs/subclass-cleric.db",
+      	"module": "My-Shared-Compendia",
+        "type": "Item",
+        "system": "dnd5e"
+      },
+      {
+        "name": "druid",
+        "label": "Subclass Druid",
+        "path": "packs/subclass-druid.db",
+      	"module": "My-Shared-Compendia",
+        "type": "Item",
+        "system": "dnd5e"
+      },
+      {
+        "name": "fighter",
+        "label": "Subclass Fighter",
+        "path": "packs/subclass-fighter.db",
+      	"module": "My-Shared-Compendia",
+        "type": "Item",
+        "system": "dnd5e"
+      },
+      {
+        "name": "monk",
+        "label": "Subclass Monk",
+        "path": "packs/subclass-monk.db",
+      	"module": "My-Shared-Compendia",
+        "type": "Item",
+        "system": "dnd5e"
+      },
+      {
+        "name": "ranger",
+        "label": "Subclass Ranger",
+        "path": "packs/subclass-ranger.db",
+      	"module": "My-Shared-Compendia",
+        "type": "Item",
+        "system": "dnd5e"
+      },
+      {
+        "name": "rogue",
+        "label": "Subclass Rogue",
+        "path": "packs/subclass-rogue.db",
+      	"module": "My-Shared-Compendia",
+        "type": "Item",
+        "system": "dnd5e"
+      },
+      {
+        "name": "sorcerer",
+        "label": "Subclass Sorcerer",
+        "path": "packs/sorcerer.db",
+      	"module": "My-Shared-Compendia",
+        "type": "Item",
+        "system": "dnd5e"
+      },
+      {
+        "name": "paladin",
+        "label": "Subclass Paladin",
+        "path": "packs/subclass-paladin.db",
+      	"module": "My-Shared-Compendia",
+        "type": "Item",
+        "system": "dnd5e"
+      },
+      {
+        "name": "warlock",
+        "label": "Subclass Warlock",
+        "path": "packs/subclass-warlock.db",
+      	"module": "My-Shared-Compendia",
+        "type": "Item",
+        "system": "dnd5e"
+      },
+      {
+        "name": "wizard",
+        "label": "Subclass Wizard",
+        "path": "packs/subclass-wizard.db",
+      	"module": "My-Shared-Compendia",
+        "type": "Item",
+        "system": "dnd5e"
+      },
+      {
+        "name": "blood-hunter",
+        "label": "Subclass Blood Hunter",
+        "path": "packs/subclass-blood-hunter.db",
+      	"module": "My-Shared-Compendia",
+        "type": "Item",
+        "system": "dnd5e"
+      },
+      {
+        "name": "backgrounds",
+        "label": "Backgrounds",
+        "path": "packs/backgrounds.db",
+      	"module": "My-Shared-Compendia",
+        "type": "Item",
+        "system": "dnd5e"
+      },
+      {
+        "name": "class-features",
+        "label": "Class Features",
+        "path": "packs/class-features.db",
+      	"module": "My-Shared-Compendia",
+        "type": "Item",
+        "system": "dnd5e"
+      },
+      {
+        "name": "races",
+        "label": "Races",
+        "path": "packs/races.db",
+      	"module": "My-Shared-Compendia",
+        "type": "Item",
+        "system": "dnd5e"
+      },
+      {
+        "name": "spells",
+        "label": "Spells",
+        "path": "packs/spells.db",
+      	"module": "My-Shared-Compendia",
+        "type": "Item",
         "system": "dnd5e"
       }
     ],
